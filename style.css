@@ -13,7 +13,7 @@ body {
   background-color: #fff;
   width: 300px;
   height: 500px;
-  border: 5px solid #abcea1;
+  border: 5px solid #	#FFC0CB;
   border-radius: 8px;
   padding: 15px;
   overflow-y: scroll;
@@ -46,7 +46,7 @@ body {
 }
 
 #tasks div {
-  border: 3px solid #abcea1;
+  border: 3px solid #FFC0CB1;
   background-color: #e2eede;
   border-radius: 6px;
   padding: 5px;
